@@ -4,7 +4,7 @@
 
 <properties>
 
-    <!-- SERVER CONFIG -->
+    <!-- hhSERVER CONFIG -->
 
     <entry key='web.enable'>true</entry>
     <!--<entry key='web.address'></entry>-->
